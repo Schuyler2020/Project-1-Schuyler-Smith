@@ -1,0 +1,23 @@
+200527201930, 23411,  "Chaos - Patricia Cornwell", 10.75, 1, 0, 10.75, 05/27/20, 07:30:55 PM EDT
+200527201930, 55555,  "Everyday Italian - Giada de Laurentiis", 18.99, 20, 20, 75.96, 05/27/20, 07:30:55 PM EDT
+200527201933, 19652,  "Bird Box - Josh Malerman", 12.99, 6, 10, 7.7940000000000005, 05/27/20, 07:33:32 PM EDT
+200527201935, 44556,  "The Fix - David Baldacci", 12.99, 5, 10, 6.495000000000001, 05/27/20, 07:35:13 PM EDT
+200527201935, 11112,  "The Guilty - David Baldacci", 14.95, 12, 15, 26.909999999999997, 05/27/20, 07:35:13 PM EDT
+200527201935, 234,  "The Bourne Identity - Robert Ludlum", 12.95, 25, 20, 64.75, 05/27/20, 07:35:13 PM EDT
+200528200944, 33333,  "Gray Mountain - John Grisham", 14.95, 3, 0, 44.849999999999994, 05/28/20, 09:44:59 AM EDT
+200528200944, 19342,  "The Surgeon - Tess Gerritsen", 10.99, 2, 0, 21.98, 05/28/20, 09:44:59 AM EDT
+200528200948, 12277,  "Y Is For Yesterday - Sue Grafton", 10.99, 5, 10, 5.495000000000001, 05/28/20, 09:48:21 AM EDT
+200528200951, 12277,  "Y Is For Yesterday - Sue Grafton", 10.99, 1, 0, 10.99, 05/28/20, 09:51:16 AM EDT
+200528200951, 19652,  "Bird Box - Josh Malerman", 12.99, 1, 0, 12.99, 05/28/20, 09:51:45 AM EDT
+200528200951, 12277,  "Y Is For Yesterday - Sue Grafton", 10.99, 1, 0, 10.99, 05/28/20, 09:51:45 AM EDT
+200528200953, 89891,  "Turbo Twenty-three - Janet Evanovich", 8.99, 5, 10, 4.495, 05/28/20, 09:53:38 AM EDT
+200528200953, 19652,  "Bird Box - Josh Malerman", 12.99, 3, 0, 38.97, 05/28/20, 09:53:38 AM EDT
+200528200953, 89238,  "The Reckoning - John Grisham", 14.99, 6, 10, 8.994, 05/28/20, 09:53:38 AM EDT
+200528200953, 123123,  "X - Sue Grafton", 9.99, 7, 10, 6.993000000000001, 05/28/20, 09:53:38 AM EDT
+200528200956, 12277,  "Y Is For Yesterday - Sue Grafton", 10.99, 1, 0, 10.99, 05/28/20, 09:56:19 AM EDT
+200528200956, 33214,  "Against All Odds - Danielle Steele", 18.99, 2, 0, 37.98, 05/28/20, 09:56:19 AM EDT
+200528200956, 98342,  "The Circle - Dave Eggers", 14.99, 2, 0, 29.98, 05/28/20, 09:56:19 AM EDT
+200528201003, 45376,  "The Apprentice - Tess Gerritsen", 9.99, 1, 0, 9.99, 05/28/20, 10:03:29 AM EDT
+200528201003, 33214,  "Against All Odds - Danielle Steele", 18.99, 1, 0, 18.99, 05/28/20, 10:03:29 AM EDT
+200528201008, 23411,  "Chaos - Patricia Cornwell", 10.75, 2, 0, 21.5, 05/28/20, 10:08:15 AM EDT
+200528201008, 66666,  "Refusal - Felix Francis", 7.99, 1, 0, 7.99, 05/28/20, 10:08:15 AM EDT
